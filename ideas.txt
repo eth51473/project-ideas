@@ -1,7 +1,7 @@
 1. Car Trade-In Value Estimator - people enter car info and receive a trade in estimate for their car immediately
 2. Booking Website for Van Rental Website- allow users to make a reservation/pay for van rental
 3. Slackline - allow slackliners to share good/legal slacklining spots with the rest of the community. 
-  similar to mountain project for rock     climbing
+  similar to mountain project for rock climbing
 4. Messenger app similar to facebook messenger where you can start a conversation with people you add as a friend 
 5. Hair stylist app, people can find haircuts they like and save them to show to the stylist later, users can also add pictures of their own haircut right after they get a new haircut that they want to get again so that they can show the stylist exactly how they want it to look the next time.
 
